@@ -43,7 +43,6 @@ javac ScannerTool.java
 ```bash
 java ScannerTool -h <host> [options]
 ```
-
 ---
 
 ## 📘 Usage
